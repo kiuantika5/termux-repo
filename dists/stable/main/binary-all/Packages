@@ -3,9 +3,9 @@ Version: 1.1
 Architecture: all
 Maintainer: You <your-email@example.com>
 Filename: pool/main/jac_1.1_all.deb
-Size: 19392
-MD5sum: 012a85990e7e8b35c15063a601b7a778
-SHA1: b358265ff498709313bd4b13b8a7276b7340be13
-SHA256: 8b6ff4666706814c15c0d1b02a248eac00cca04f1e807cf034820231f7db325b
+Size: 60136
+MD5sum: 35eca7cf6139acddd50b6989a7cabac4
+SHA1: f8b400c281eba62236f4a0ed156a99d0f00ffc67
+SHA256: 0938ad5e24c1a727ff5fbc6d292214691b207391d03961b8a160b2d9e42a5bd2
 Description: Custom Java compiler tool for Termux
 

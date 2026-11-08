@@ -1,17 +1,7 @@
-Date: Sun, 08 Nov 2026 17:20:47 +0000
-MD5Sum:
- 3cbd31fc7c3f571df17dffaaf261590f               38 Release
- 30e9670388e13d7ee70a5f90f97f75fa              424 main/binary-all/Packages
- b8ddf476f9cc35a9394b009447370839              338 main/binary-all/Packages.gz
-SHA1:
- c9858a8c711da94b65f607721275208950868b32               38 Release
- 34e4ea7f9ae0e110cec25598ba16fcae2c398879              424 main/binary-all/Packages
- 08691ea2d54d2559500c45caada35cc67af93f96              338 main/binary-all/Packages.gz
-SHA256:
- 9b4c8ecccddd20e2db7906936a46699ada79b9b653a5fa1cddd9f66d12c579a5               38 Release
- 1a818b8c229686cb7c0f7b4e534423ae9bec14bd6138c4f713fa9ad0531473d4              424 main/binary-all/Packages
- 97c3e39f2eafbc08958a1e3d0d8f0fa78511154b3e5b246f95bf162f87e206b6              338 main/binary-all/Packages.gz
-SHA512:
- ee36c18f84c9fc49bc1f7bfdc117a2277ce118ab5891e1c018fffff603cf91e0c6ffb822b31d3c11b97c79dfed27ee67081fad8a0f1e04207d55a760da8c3cb1               38 Release
- ab879f670b877c643941330565b48eaca8424eaea2d1ca7d0af25b7da6833a38dca59b610979b8bab6e584b02e8b200fd2e1942366f5cfd8032b38af129f83ed              424 main/binary-all/Packages
- d0d8d2192bfa567f3569bff9fe08dee61e1f7b687675e5e78913cf13925ed1581088c5f1e301a51a6440e9ae8252a024158e1940cc7e809fd5dc59314a1626a7              338 main/binary-all/Packages.gz
+Origin: Kiuantika5
+Label: termux-repo
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Custom APT repository for jac compiler

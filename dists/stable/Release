@@ -1,7 +1,17 @@
-Origin: Kiuantika5
-Label: termux-repo
-Suite: stable
-Codename: stable
-Architectures: all
-Components: main
-Description: Custom APT repository for jac compiler
+Date: Sun, 08 Nov 2026 17:39:27 +0000
+MD5Sum:
+ b64d1ff3ea8a723f45202b092838e9de               38 Release
+ f431815e8b2d00d1b02891ea0d13430a              345 main/binary-all/Packages
+ 0aa69d06ba4463f46b55a61d6775ac03              297 main/binary-all/Packages.gz
+SHA1:
+ 68dff7180352aff9f2a8ac03afba605f3ccb33c7               38 Release
+ 575f825526ff6810aef092d870a42d562d217413              345 main/binary-all/Packages
+ 3cd8f079e1e9796b9ff7436ca510979d95bb7fe4              297 main/binary-all/Packages.gz
+SHA256:
+ 2736a2a8fabf3f76ac5ed6f4d5692b6a13789efaae75fba4848a331f31b2fa5a               38 Release
+ f89ac9a9bb3e7dcefbc8bb136ffc3f1c45200c77bbf293d98a91574aa148e485              345 main/binary-all/Packages
+ 76d6f4413cd6b7704d4d1c2f4181b173ac2d46247abaef748b22f8c8b80817c1              297 main/binary-all/Packages.gz
+SHA512:
+ 7676b3886860f5e14e5e4e085f850ca82edfb14803aacfe0dceaee423ca0de3dac389873d452400e829a32dad134ea072b9d57cb581f786df8a19aeecfe8c8df               38 Release
+ ee2b6b318a4ff1322da8cc74ab009a36b95277d07bdd5a820f1053ec4d6ff2a4338e9c0cfb8ecf061a5a771fa24f7e894011b5381c007fdff3b954b29a16d985              345 main/binary-all/Packages
+ ad4b5f83928e9e3cc9121eba42a8498e30fd67d53761c3f4e9f61cfae39a3776a8ba3000a1644cd5896d68e4184481091072e40643ca79d1a9802063cfb2e52f              297 main/binary-all/Packages.gz

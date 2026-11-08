@@ -1,24 +1,24 @@
 Architectures: all
 Codename: stable
 Components: main
-Date: Sun, 08 Nov 2026 18:51:27 +0000
+Date: Sun, 08 Nov 2026 18:56:30 +0000
 Description: Custom Termux Repository
 Label: termux-repo
 Origin: Kiuantika5
 Suite: stable
 MD5Sum:
- 4eb8b2885a9beab035436e8319edae9e              181 Release
- 66692b9b0e1f9eb379f6dc8d968a5e40              377 main/binary-all/Packages
- 62348dbb1e1365ca1c58d20d16a20652              307 main/binary-all/Packages.gz
+ 0b7feb5336202203cfa9b7a969c0646c              181 Release
+ 063cff41588a55f06c3c8a5cb0d37d00              377 main/binary-all/Packages
+ 9b7db3325885952ba3fee3797b2b2c81              310 main/binary-all/Packages.gz
 SHA1:
- 386e36d63ed09d776247a8cae211bac8649222d4              181 Release
- 78750beb4fde5a289cddf997f963b329c3447347              377 main/binary-all/Packages
- f104a0bcd600ad592a805d5e358c60f22723171c              307 main/binary-all/Packages.gz
+ bce6261f727affc0bb7714da1730f963c59f7c1c              181 Release
+ bfa4868918a5e77d984388fb4aaebaee8cf4c65e              377 main/binary-all/Packages
+ 97bd115452e8af69836c74cb96f24fbcbe594097              310 main/binary-all/Packages.gz
 SHA256:
- 56a183956e580da56ff7adbdd112e1efa951ce25be1bea3fd48b358ee0db1c89              181 Release
- 5da21a1d4ad7f4c0093f49b0263b9ff645deb766a6b0694fbd736f669e6179ad              377 main/binary-all/Packages
- 7f0f6a28da4bf6ec97aa69cee4a60fa2b8cd6fde32d78c86a7ca5dcd9bf05a72              307 main/binary-all/Packages.gz
+ 9d2c64e957e2c0842f6c1ae249a8337d0adbc46a22995a9a987a08175c4a6b87              181 Release
+ 29f3ca8f9a78de47ace8376522c4bd84bd47680655215f6ccf3a5244935b1da0              377 main/binary-all/Packages
+ 8d4a15fc7c83c8d10d74f58e00c14ef8ea3dc73ae4e41cf3b2516a1a830c2e4a              310 main/binary-all/Packages.gz
 SHA512:
- 12826c18671529479812641f4caa6754d1b5af0090f9fe97f149d6f10d6225e55b24ba10536543902267c5bd6eddc7315ac3e441888802a87bc4765b783b11ab              181 Release
- a24a2f4bfbd3d30d01f4641923d588f14d8cfd98fdeee93fa9f4a4568a3bce06a39d53f80a5c15a5d52df7b986f261a198c479c724ef3d42c66876640622f186              377 main/binary-all/Packages
- fb44673b3ec1a0867749e19ecec18b82b89a2d11bff00f9badf8362db6bf67f6d11fabc793007b33804af9af5bfd7ad70f5165189a59ef2ecda658cda72266e3              307 main/binary-all/Packages.gz
+ 0f8d429c6b804ac37d5c51227a1db629d2e0c1428643d5b6cc24d3a2ae227cf33d1edd562d61b11eb39a76a80b98662aab1d4d93ea912ae4cd9427f12f9bd825              181 Release
+ 8a93b52d45f15068f299d9294f4c0053eb1dc012b4681553a29a6876cdf481f8c69bce119d1c31641cd8d13947b66b6775ef99767f12a5800dd5d18f582221d9              377 main/binary-all/Packages
+ d9e3af0cafed9358c180476fccd5099d4fb8e45699118d0e86d8c8d5b1b942b02272e3da626c92a714fe8c846738584933e04a6b573ca865477543e12d1c7523              310 main/binary-all/Packages.gz

@@ -4,8 +4,8 @@ Architecture: all
 Maintainer: Developer <user@termux>
 Filename: pool/main/jac_1.3_all.deb
 Size: 1088
-MD5sum: a710b7a69dc15c753630938e86dd6fd8
-SHA1: b1f89cc8017f7a569a0be964182c94be90f9e341
-SHA256: c86d7558a8284f454f3a6053aa71aff67cf40ce5219308e2a6b47b5b72926854
+MD5sum: 13012e22dfa87db49fe6f8adf29e0f35
+SHA1: 31f22ada86adfc075c53447d5da1e5399d7e3694
+SHA256: 3e0480e926f1e2310ac55a12ad61632eb6a1b9ae9a4e56a842338a3d24498710
 Description: Java Android Compiler (jac) - Compiles and runs Java for Android in Termux
 
